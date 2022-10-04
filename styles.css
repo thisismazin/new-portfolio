@@ -53,7 +53,7 @@
 
 .homepage-content {
     display: flex;
-    padding-top: 30vh;
+    padding-top: 33vh;
 }
 
 .my-name {
@@ -71,14 +71,16 @@
 }
 
 .my-name h1 {
-    font-size: 4em;
-    color: #ffe;
-    padding:0 0;
+    font-size: 3.5em;
+    color: #ffe;r
     text-align: left;
 }
 
 .my-name p {
     text-align: right;
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffe;
 }
 
 .my-name h1:hover {
